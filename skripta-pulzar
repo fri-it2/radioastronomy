@@ -1,0 +1,7 @@
+#!/bin/bash
+#za vsak datoteko v direktoriju izvedi program
+yourfilenames=`ls`
+for eachfile in $yourfilenames
+do
+   python pa.py $eachfile
+done

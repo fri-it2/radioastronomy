@@ -1,3 +1,1 @@
 # radioastronomy
-radioastronomy 
-observation pulsar
